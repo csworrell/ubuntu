@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Pulltag
+Comment=Autostart Chrome in Kiosk Mode
+#x-Gnome-Autostart-Delay=20
+Exec=/usr/bin/google-chrome-stable --kiosk --password-store=basic --noerrdialogs --incognito --kiosk-printing https://ffprod.millsfleetfarm.com/ff-kiosk/
+Icon=/usr/share/icons/mate/scalable/apps/web-browser-symbolic.svg
