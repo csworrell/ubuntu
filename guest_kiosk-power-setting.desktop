@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=mate-panel-launcher
+Icon[en_US]=mate-panel-launcher
+Name[en_US]=kiosk-power-setting
+Exec=/home/guest/Downloads/kiosk-power-setting.sh
+Name=kiosk-power-setting
