@@ -4,5 +4,5 @@ Encoding=UTF-8
 Name=Pulltag
 Comment=Autostart Chrome in Kiosk Mode
 #x-Gnome-Autostart-Delay=20
-Exec=/usr/bin/google-chrome-stable --kiosk --password-store=basic --noerrdialogs --incognito --kiosk-printing https://ffprod.millsfleetfarm.com/ff-kiosk/
+Exec=/usr/bin/google-chrome-stable --kiosk --simulate-outdated-no-au='Tue, 31 Dec 2099 23:59:59 GMT' --password-store=basic --noerrdialogs --incognito --use-system-default-printer --kiosk-printing --disable-pinch https://ffprod.millsfleetfarm.com/ff-kiosk/
 Icon=/usr/share/icons/mate/scalable/apps/web-browser-symbolic.svg
