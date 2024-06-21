@@ -36,7 +36,7 @@
 *cupsLanguages: "en ar ca cs da de el es fi fr he hr hu id it ja ko ms no pl pt pt_PT ro ru sk sv th tr uk vi zh_CN zh_TW"
 *OpenUI *PageSize/Media Size: PickOne
 *OrderDependency: 10 AnySetup *PageSize
-*DefaultPageSize: w234h563
+*DefaultPageSize: w234h419
 *PageSize w90h18/1.25x0.25": "<</PageSize[90 18]/ImagingBBox null>>setpagedevice"
 *PageSize w90h162/1.25x2.25": "<</PageSize[90 162]/ImagingBBox null>>setpagedevice"
 *PageSize w108h18/1.50x0.25": "<</PageSize[108 18]/ImagingBBox null>>setpagedevice"
