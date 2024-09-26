@@ -115,4 +115,3 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-xset -dpms s off s noblank s 0 0 s noexpose
