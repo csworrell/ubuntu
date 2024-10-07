@@ -69,4 +69,4 @@ if [ -x /usr/lib/command-not-found -o -x /usr/share/command-not-found/command-no
 		fi
 	}
 fi
-if [ -f /usr/bin/neofetch ]; then neofetch; fi
+/usr/bin/neofetch --config /etc/neofetch.conf
